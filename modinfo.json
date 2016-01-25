@@ -1,0 +1,22 @@
+{
+    "context": "client",
+    "identifier": "com.pa.domdom.darker_skybox",
+    "display_name": "Darker Sky",
+    "description": "Makes the skybox darker and planet atmosphere darker.",
+    "author": "dom314",
+    "forum": "https://forums.uberent.com/threads/rel-client-darker-sky.71298/",
+    "icon": "http://i.imgur.com/JTUDbBR.png",
+    "version": "1.0.0",
+    "category": [
+        "in-game",
+        "effects",
+        "shader"
+    ],
+    "product": [
+        "Titans",
+        "Classic"
+    ],
+    "priority": 100,
+    "build": "89755",
+    "date": "2016/01/25"
+}
