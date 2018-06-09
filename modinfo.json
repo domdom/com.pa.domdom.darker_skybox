@@ -5,9 +5,10 @@
     "display_name": "Darker Sky",
     "description": "Makes the skybox darker and planet atmosphere darker.",
     "author": "dom314",
+    "signature": " ",
     "forum": "https://forums.uberent.com/threads/rel-client-darker-sky.71298/",
     "icon": "http://i.imgur.com/JTUDbBR.png",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "category": [
         "titans",
         "classic",
@@ -15,5 +16,5 @@
         "shaders"
     ],
     "build": "94684",
-    "date": "2016/05/06"
+    "date": "2018-05-09"
 }
